@@ -14,6 +14,16 @@ https://cglearning.udemy.com/course/taming-big-data-with-apache-spark-hands-on/l
 - Machine Learning with SparkML, Linear REgression, and Decision Trees
 - SPark Streaming
 
+## Sections
+- Section 1, overview and getting started, Lessons 1-9
+- Section 2, basic spark and RDDs, Lessons 10-24
+- Section 3, Spark SQL, Dataframes, Datasets, Lessons 25-33
+- Section 4, Advanced spark using super hero datasets, and cluster managers, Lessons 34-45
+- Section 5, Spark on a cluster, Lessons 46-53
+- Section 6, Machine Learning and Spark ML, Lessons 54-59 
+- Section 7, Spark Streaming, Structured Streaming, GraphX, Lessons 60-64
+- Section 8, Completed course, Lessons 65 and 66
+
 ## Setup Instructions: Using Windows enviornment ##
 
 ### Python enviornment: ###
